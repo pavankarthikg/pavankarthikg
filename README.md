@@ -2,11 +2,11 @@
 
 ### I'm a Software Engineering graduate studet at San Jose State university.
 
-#### Goals for 2021  <ol> 
-<li> Secure a Summer intern. </li>
+#### Goals for 2023  <ol> 
+<li> Secure a Fulltime SDE job </li>
 <li>Gain prowess in full-stack web development. </li>
                   
-#### Reach me at [LinkedIn](https://www.linkedin.com/in/pavan-karthik-gollakaram-2b9448163/)
+#### Reach me at [LinkedIn](https://www.linkedin.com/in/pavankarthikg/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=pavankarthikg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
