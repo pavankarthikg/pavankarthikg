@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineering graduate studet at San Jose State university.
 
-#### Goals for 2023  <ol> 
+#### Goals for 2025  <ol> 
 <li> Secure a Fulltime SDE job </li>
 <li>Gain prowess in full-stack web development. </li>
                   
